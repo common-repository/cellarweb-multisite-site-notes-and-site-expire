@@ -1,0 +1,96 @@
+/* CSS for CellarWeb Multisite Site Notes and Site Expire  plugin */
+
+.CWMN_list {
+	list-style: disc !important;
+	padding-left: 3%;
+}
+.CWMN_header {
+	color: #000;
+ /*	background-color: #6FF;  */
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	padding: 5px;
+}
+/* for the logo on top of settings page */
+.CWMN_logo_image {
+	position: absolute;
+	top: 2%;
+}
+
+
+.CWMN_introtext {
+	padding: 5px;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+.CWMN_settings_fields {
+}
+.CWMN_settings {
+	margin-left: 5%;
+	padding: 10px;
+	border: thin solid #CCC;
+}
+.CWMN_options {
+	font-size: 14px;
+	width: 70%;
+	float: left;
+	overflow: hidden;
+	background-color: #9FE8FF;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.CWMN_sidebar {
+	float: left;
+	width: 20%;
+	overflow: hidden;
+	background-color: #97FFBE;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	border: thin solid #39F;
+}
+.CWMN_back_yellow {
+	background-color: #FFFF00;
+	padding: 3px;
+}
+
+.CWMN_shadow {
+	-webkit-box-shadow: 5px 5px 3px 0 rgba(128,123,128,1);
+	   -moz-box-shadow: 5px 5px 3px 0 rgba(128,123,128,1);
+	        box-shadow: 5px 5px 3px 0 rgba(128,123,128,1);
+}
+.CWMN_footer {
+	float: left;
+	background-color: #9FE8FF;
+	padding-left: 15;
+	width: 100%;
+	margin-top: 15px;
+	margin-right: 0;
+	margin-bottom: 15px;
+	margin-left: 0;
+	padding-top: 10px;
+	padding-right: 15;
+	padding-bottom: 10px;
+}
+.CWMN_back_white {
+	background-color: yellow !important;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; 
+	margin-left: 20px;
+}
+.CWMN_box_yellow {
+	background-color: yellow !important;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; 
+	margin-left: 20px;
+	padding:10px;
+	border: 1px black solid;
+}
+
+#footer-thankyou , #footer-upgrade {display:none !important;} 
+#wpbody-content {padding-bottom:5px !important; overflow:hidden !important}
